@@ -41,6 +41,7 @@
 
 .task-row {
   display: flex;
+  margin-top: 20px;
 }
 
 .tasks-list {
@@ -104,7 +105,6 @@
 /* New Task */
 .new-task-label {
   display: block;
-  margin: 0 0 20px;
 }
 
 .new-task-input {
