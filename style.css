@@ -124,8 +124,8 @@
 .tasks-list__checkbox,
 .tasks-list__label,
 .tasks-list__input,
-.btn_edit,
-.btn_delete {
+.btn-edit,
+.btn-delete {
   vertical-align: middle;
 }
 
@@ -144,13 +144,13 @@
   width: 226px;
 }
 
-.btn.btn_delete .btn__remove-img {
+.btn.btn-delete .btn__remove-img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.btn.btn_delete .btn__remove-img:hover {
+.btn.btn-delete .btn__remove-img:hover {
   transform: rotateZ(0);
 }
 
